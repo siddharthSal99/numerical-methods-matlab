@@ -1,1 +1,4 @@
 generating and using an n x n vandermonde matrix to matrix solve for coeffecients of an nth order polynomial that fits m points.
+
+using this above function, I generated a polynomial to fit Pressure versus Volume points to a polynomial and integrated to find the work 
+done by expansion
