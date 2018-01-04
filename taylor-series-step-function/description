@@ -1,0 +1,2 @@
+implement the step function with the taylor series approximation using a series of sines.
+plots the result with 5,20,50, and 100 terms.
