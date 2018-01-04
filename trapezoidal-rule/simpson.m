@@ -1,4 +1,4 @@
-function [result,error] = homersimpson(xdata,ydata)
+function [result,error] = simpson(xdata,ydata)
 if mod(length(xdata),2) ~= 0
     error('must have even number of data pts');
 end
