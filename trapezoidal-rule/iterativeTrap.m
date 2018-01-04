@@ -1,4 +1,4 @@
-function [result,error] = fettywaptrap(xdata,ydata)
+function [result,error] = iterativeTrap(xdata,ydata)
 result = 0
     for x = 1:length(xdata) - 1
         a = xdata(x);
