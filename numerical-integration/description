@@ -1,0 +1,3 @@
+These files model the volume and center of mass of a coke bottle that is filling up with Coke. Given an image of a coke bottle, I fit the shape 
+with a function and integrated it to find the volume. Then using the density of coke and the double integral fromula for center of mass, I 
+found the center of mass of the coke bottle as it was filled up.
