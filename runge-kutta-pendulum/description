@@ -1,0 +1,4 @@
+implemented a 3rd order runge kutta method for solving ODEs
+used that to model the motion of a damped pendulum with drag
+used he model to calculate various physical constants.
+
