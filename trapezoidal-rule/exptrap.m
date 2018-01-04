@@ -1,4 +1,4 @@
-function [result,error] = mousetrap(fun,xdata)
+function [result,error] = exptrap(fun,xdata)
 ydata = fun(xdata);
     for x = 1:length(xdata) - 1
         a = xdata(x);
