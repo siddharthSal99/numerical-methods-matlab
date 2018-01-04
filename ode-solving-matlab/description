@@ -1,0 +1,3 @@
+This models Millikan's oil drop experiment using ODEs to model the oscillation of a charged particle falling on a charged disk.
+MATLAB has a very specific format for solving ODEs, so this implements that format of solving for a system of linear first order equations
+and using the inital value conditions. 
