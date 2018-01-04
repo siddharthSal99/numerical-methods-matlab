@@ -1,0 +1,2 @@
+This file uses cubic spline fitting to trace a track using the given image. Points were manually obtained and entered into the spline fit
+program
